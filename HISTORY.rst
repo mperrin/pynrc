@@ -1,6 +1,9 @@
 Revision History
 ================
 
+
+Test edit demo for git
+
 v0.8.0beta (ongoing)
 -----------------
 
